@@ -18,7 +18,7 @@ Building the project
 
 Clone the repository:
 
-> git clone https://github.com/kolorobot/spring-boot-thymeleaf
+> git clone https://github.com/linhhd3/spring-boot-thymeleaf-master
 
 Navigate to the newly created folder:
 
@@ -32,13 +32,3 @@ To package the project run:
 
 > mvnw clean package
 
-
-Referenced articles:
---------------------
-
-- [Java 8 Date & Time with Thymeleaf](http://blog.codeleak.pl/2015/11/how-to-java-8-date-time-with-thymeleaf.html)
-- [Spring Boot and Thymeleaf with Maven](http://blog.codeleak.pl/2014/04/how-to-spring-boot-and-thymeleaf-with-maven.html)
-- [Spring Boot Integration Testing with Selenium](http://blog.codeleak.pl/2015/03/spring-boot-integration-testing-with.html)
-- [Spring Boot and Thymeleaf: Reload templates and static resources without restarting the application](http://blog.codeleak.pl/2016/12/thymeleaf-reload-templates-and-static-resources.html)
-- [Getting started with Thymeleaf Text Templates](http://blog.codeleak.pl/2017/03/getting-started-with-thymeleaf-3-text.html)
-- [Spring Boot and Security Events with Actuator](http://blog.codeleak.pl/2017/03/spring-boot-and-security-events-with-actuator.html)
